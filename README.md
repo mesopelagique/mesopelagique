@@ -24,8 +24,8 @@
 
 <img align="left" alt="macOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesopelagique&layout=compact)](https://github.com/mesopelagique?tab=repositories)
 
 ### Connect with me:
 
@@ -33,13 +33,13 @@
 
 ### Github Stats:
 
-<a href="https://github.com/mesopelagique?tab=repositorie">
+<a href="https://github.com/mesopelagique?tab=repositories">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mesopelagique&show_icons=true&include_all_commits=true&theme=dark" alt="mesopelagique's github stats" />
 </a>
 
 <a href="https://github.com/phimage">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=phimage&show_icons=true&include_all_commits=true&theme=dark" alt="phimage's github stats" />
 </a>
-  
+
 [discord-shield]: https://img.shields.io/badge/chat-discord-7289DA?logo=discord&style=flat
 [discord-url]: https://discord.gg/dVTqZHr
