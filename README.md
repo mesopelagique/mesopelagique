@@ -31,7 +31,7 @@
 
 <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesopelagique&layout=compact)](https://github.com/mesopelagique?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesopelagique&layout=compact&theme=vue)](https://github.com/mesopelagique?tab=repositories)
 
 ### Connect with me:
 
