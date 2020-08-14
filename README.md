@@ -31,9 +31,7 @@
 
 [![discord][discord-shield]][discord-url] [![Sponsor](https://img.shields.io/badge/Sponsor-%F0%9F%A7%A1-white.svg?style=flat)](https://github.com/sponsors/phimage)
 
-<br/>
-
-### Github Stats
+### Github Stats:
 
 <img align="left" alt="mesopelagique's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mesopelagique&show_icons=true&hide_border=true" />
 <img align="left" alt="phimage's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=phimage&show_icons=true&hide_border=true" />
