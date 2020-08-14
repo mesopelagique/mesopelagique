@@ -33,8 +33,13 @@
 
 ### Github Stats:
 
-<img align="left" alt="mesopelagique's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mesopelagique&show_icons=true&hide_border=true" />
-<img align="left" alt="phimage's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=phimage&show_icons=true&hide_border=true" />
+<a href="https://github.com/mesopelagique?tab=repositorie">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mesopelagique&show_icons=true&include_all_commits=true&theme=dark" alt="mesopelagique's github stats" />
+</a>
+
+<a href="https://github.com/phimage">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=phimage&show_icons=true&include_all_commits=true&theme=dark" alt="phimage's github stats" />
+</a>
   
 [discord-shield]: https://img.shields.io/badge/chat-discord-7289DA?logo=discord&style=flat
 [discord-url]: https://discord.gg/dVTqZHr
