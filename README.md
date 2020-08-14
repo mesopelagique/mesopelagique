@@ -2,7 +2,11 @@
 
 > Mesopelagic zone, also known as the twilight zone, is a range of ocean depth that starts 200m below the water's surface to 1000m
 
-[![Dive into](https://dabuttonfactory.com/button.png?t=Dive+into&f=Open+Sans&ts=18&tc=fff&hp=30&vp=8&c=6&bgt=unicolored&bgc=54a258)](https://mesopelagique.github.io/)
+<p align="center">
+<a href="https://mesopelagique.github.io/">
+  <img align="center" src="https://dabuttonfactory.com/button.png?t=Dive+into&f=Open+Sans&ts=18&tc=fff&hp=30&vp=8&c=6&bgt=unicolored&bgc=54a258" alt="https://mesopelagique.github.io/" />
+</a>
+</p>
 
 ### Languages and Tools:
 <img align="left" alt="swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
