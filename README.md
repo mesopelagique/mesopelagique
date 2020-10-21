@@ -9,9 +9,10 @@
 </p>
 
 ### Languages and Tools:
-<img align="left" alt="4d" src="https://img.shields.io/badge/--023c7a?style=for-the-badge&logo=4d" />
 
-<img align="left" alt="swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
+[<img align="left" alt="4d" src="https://img.shields.io/badge/--023c7a?style=for-the-badge&logo=4d" />](https://www.4d.com)
+
+[<img align="left" alt="swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />](https://www.apple.com/fr/swift/)
 <img align="left" alt="objective-c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
