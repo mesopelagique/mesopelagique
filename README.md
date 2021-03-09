@@ -34,7 +34,7 @@
 
 <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesopelagique&layout=compact&theme=vue)](https://github.com/mesopelagique?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesopelagique&layout=compact&theme=dark)](https://github.com/mesopelagique?tab=repositories)
 
 ### Connect with me:
 
@@ -43,11 +43,11 @@
 ### Github Stats:
 
 <a href="https://github.com/mesopelagique?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mesopelagique&show_icons=true&include_all_commits=true&theme=vue" alt="mesopelagique's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mesopelagique&show_icons=true&include_all_commits=true&theme=dark" alt="mesopelagique's github stats" />
 </a>
 
 <a href="https://github.com/phimage">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=phimage&show_icons=true&include_all_commits=true&theme=vue" alt="phimage's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=phimage&show_icons=true&include_all_commits=true&theme=dark" alt="phimage's github stats" />
 </a>
 
 [discord-shield]: https://img.shields.io/badge/chat-discord-7289DA?logo=discord&style=flat
