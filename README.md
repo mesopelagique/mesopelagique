@@ -34,21 +34,17 @@
 
 <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesopelagique&layout=compact&theme=dark)](https://github.com/mesopelagique?tab=repositories)
-
 ### Connect with me:
 
 [![discord][discord-shield]][discord-url] [![Sponsor](https://img.shields.io/badge/Sponsor-%F0%9F%A7%A1-white.svg?style=flat)](https://github.com/sponsors/phimage)
 
 ### Github Stats:
 
-<a href="https://github.com/mesopelagique?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mesopelagique&show_icons=true&include_all_commits=true&theme=dark" alt="mesopelagique's github stats" />
-</a>
-
-<a href="https://github.com/phimage">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=phimage&show_icons=true&include_all_commits=true&theme=dark" alt="phimage's github stats" />
-</a>
+|||
+|-|-|
+|<a href="https://github.com/mesopelagique?tab=repositories">mesopelagique (4D personal)</a>|<a href="https://github.com/mesopelagique?tab=repositories"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mesopelagique&show_icons=true&include_all_commits=true&theme=dark" alt="mesopelagique's github stats" /></a>|
+|<a href="https://github.com/e-marchand?tab=repositories">e-marchand (4D coorporate)</a>|<a href="https://github.com/e-marchand"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=e-marchand&show_icons=true&include_all_commits=true&theme=dark" alt="e-marchand's github stats" /></a>|
+|<a href="https://github.com/phimage?tab=repositories">phimage (swift, other)</a>|<a href="https://github.com/phimage"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=phimage&show_icons=true&include_all_commits=true&theme=dark" alt="phimage's github stats" /></a>|
 
 [discord-shield]: https://img.shields.io/badge/chat-discord-7289DA?logo=discord&style=flat
 [discord-url]: https://discord.gg/dVTqZHr
