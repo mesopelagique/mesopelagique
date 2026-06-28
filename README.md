@@ -4,8 +4,16 @@
 
 <p align="center">
 <a href="https://mesopelagique.github.io/">
-  <img align="center" src="https://dabuttonfactory.com/button.png?t=Dive+into&f=Open+Sans&ts=18&tc=fff&hp=30&vp=8&c=6&bgt=unicolored&bgc=54a258" alt="https://mesopelagique.github.io/" />
+  <img align="center" src="https://dabuttonfactory.com/button.png?t=Dive+into&f=Open+Sans&ts=18&tc=fff&hp=30&vp=8&c=6&bgt=unicolored&bgc=54a258" alt="Dive into the Mesopelagic zone" />
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://mesopelagique.github.io/blog/">
+  <img align="center" src="https://dabuttonfactory.com/button.png?t=Read+the+Blog&f=Open+Sans&ts=18&tc=fff&hp=30&vp=8&c=6&bgt=unicolored&bgc=023c7a" alt="Read the Mesopelagique blog" />
+</a>
+</p>
+
+<p align="center">
+<sub>🐟 <b>Dive into</b> — explore the zone &amp; the list of my project components&nbsp;&nbsp;|&nbsp;&nbsp;📝 <b>Blog</b> — articles, news &amp; deep dives</sub>
 </p>
 
 ### Languages and Tools:
